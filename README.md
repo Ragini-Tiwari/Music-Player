@@ -10,7 +10,8 @@ Installation
 Usage
 Contributing
 License
-Features
+
+Features:
 Play and pause music tracks
 Skip to the next or previous track
 Display current track details (title, artist, album art)
