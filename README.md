@@ -3,6 +3,7 @@ Music Player
 Welcome to the Music Player project! This is a simple music player application built using React. It allows users to play, pause, skip tracks, and manage their playlist. Below you'll find all the information you need to get started with this project.
 
 Table of Contents:
+
 Features
 Demo
 Installation
