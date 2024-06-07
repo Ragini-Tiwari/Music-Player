@@ -4,11 +4,15 @@ Welcome to the Music Player project! This is a simple music player application b
 
 Table of Contents:
 
-Features
+Features:
 Demo
+
 Installation
+
 Usage
+
 Contributing
+
 License
 
 Features:
